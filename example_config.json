@@ -1,0 +1,25 @@
+{
+  "credentials": {
+    "username": "your_upwork_email@example.com",
+    "password": "your_upwork_password"
+  },
+  "search": {
+    "query": "AI chatbot development",
+    "limit": 25,
+    "category": ["Web, Mobile & Software Dev", "AI & Machine Learning"],
+    "type": "both",
+    "level": ["intermediate", "expert"],
+    "duration": ["1 to 3 months", "3 to 6 months"],
+    "hourly_min": 25,
+    "hourly_max": 100,
+    "fixed_min": 500,
+    "fixed_max": 5000,
+    "payment_verified": true,
+    "client_hires": "10+",
+    "sort": "relevance"
+  },
+  "general": {
+    "save_csv": true,
+    "extract_reviews": true
+  }
+}
